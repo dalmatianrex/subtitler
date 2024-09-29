@@ -3,6 +3,20 @@ from openpyxl import Workbook
 from openpyxl import load_workbook
 import os
 
+# EXL_VIDEO_TITLE = 1
+# EXL_ID_COL = 2
+# EXL_ENGLISH_COL = 3
+# EXL_START_COL = 4
+# EXL_END_COL = 5
+# EXL_TRANSLATION_COL = 6
+
+# EXL_VIDEO_TITLE = 1
+# EXL_ID_COL = 2
+# EXL_ENGLISH_COL = 6
+# EXL_START_COL = 4
+# EXL_END_COL = 5
+# EXL_TRANSLATION_COL = 5
+
 EXL_VIDEO_TITLE = 1
 EXL_ID_COL = 2
 EXL_ENGLISH_COL = 3
@@ -10,9 +24,27 @@ EXL_START_COL = 4
 EXL_END_COL = 5
 EXL_TRANSLATION_COL = 6
 
-EXCEL_FILE_TITLE = 'Farsi_Subtitles.xlsx'
+
+# EXCEL_FILE_TITLE = 'ARABIC_SUBTITLES_PYE2.xlsx'
+# EXCEL_FILE_TITLE = 'ALBANIAN_SUBTITLES_PYE2.xlsx'
+# EXCEL_FILE_TITLE = 'DARI_SUBTITLES_PYE2.xlsx'
+# EXCEL_FILE_TITLE = 'FRENCH_SUBTITLES_PYE2.xlsx'
+# EXCEL_FILE_TITLE = 'PASHTO_SUBTITLES_PYE2.xlsx'
+# EXCEL_FILE_TITLE = 'SORANI_KURDISH_SUBTITLES_PYE2.xlsx'
+# EXCEL_FILE_TITLE = 'TIGRINYA_SUBTITLES_PYE2.xlsx'
+# EXCEL_FILE_TITLE = 'UKRAINIAN_SUBTITLES_PYE2.xlsx'
+# EXCEL_FILE_TITLE = 'VIETNAMESE_SUBTITLES_PYE2.xlsx'
+# EXCEL_FILE_TITLE = 'ROMANIAN_SUBTITLES_PYE2.xlsx'
+# EXCEL_FILE_TITLE = 'AMHARIC_SUBTITLES_PYE2.xlsx'
+# EXCEL_FILE_TITLE = 'FARSI_SUBTITLES_PYE2.xlsx'
+# EXCEL_FILE_TITLE = 'SPANISH_SUBTITLES_PYE2.xlsx'
+# EXCEL_FILE_TITLE = 'Amharic PYE2 Subtitles TRANSLATED AMHARIC.xlsx'
+
+EXCEL_FILE_TITLE = 'PYE_UPDATED_SUBTITLES_ARABIC_SEPT_24.xlsx'
+
+
 FOLDER_NAME = str.removesuffix(EXCEL_FILE_TITLE, '.xlsx')
-ROOT_PATH = "/home/cabox/workspace/subtitler/"
+ROOT_PATH = "/Users/paullunn/Documents/GitHub/subtitler/"
 OUTPUT_FOLDER_PATH = ROOT_PATH + FOLDER_NAME
 SUBTITLE_FILE_SUFFIX = ".srt"
 
@@ -40,9 +72,10 @@ def get_maximum_rows(*, sheet_object):
 def getExcelRowData(excel_sheet, excel_row):
     id = excel_sheet.cell(row=excel_row, column=EXL_ID_COL).value
     start_time = excel_sheet.cell(row=excel_row, column=EXL_START_COL).value
-    end_time = excel_sheet.cell(row=excel_row, column=EXL_START_COL).value
+    end_time = excel_sheet.cell(row=excel_row, column=EXL_END_COL).value
     text = excel_sheet.cell(row=excel_row, column=EXL_TRANSLATION_COL).value
-    english = excel_sheet.cell(row=excel_row, column=EXL_ENGLISH_COL).value
+    # english = excel_sheet.cell(row=excel_row, column=EXL_ENGLISH_COL).value
+    english = "None"
 
     return int(id), start_time, end_time, text, english
 
@@ -81,10 +114,11 @@ def print_all_videos(videos):
 workbook = load_workbook(filename=EXCEL_FILE_TITLE)
 sheet = workbook.active
 max_rows_in_spreadsheet = get_maximum_rows(sheet_object=sheet)
-print("******** ",max_rows_in_spreadsheet)
+# print("******** ",max_rows_in_spreadsheet)
 
 videos = find_all_videos(sheet)
 num_videos = len(videos)
+print("Workbook = ",EXCEL_FILE_TITLE)
 print("num_videos = {}".format(num_videos))
 # print_all_videos(videos)
 
@@ -107,3 +141,4 @@ for video_index, video in enumerate(videos):
 
 
     subtitle_file.close()
+

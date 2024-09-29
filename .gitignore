@@ -1,0 +1,4 @@
+*.xlsx
+*.zip
+# dotenv environment variables file
+.env
