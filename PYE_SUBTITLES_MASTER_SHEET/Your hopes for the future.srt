@@ -1,0 +1,88 @@
+1
+0:0:00,000 --> 0:0:07,000
+Your hopes for the future
+
+2
+0:0:07,000 --> 0:0:16,000
+Being able to talk about what you want in the future makes it more likely that people can help you and more likely that you'll make it happen.
+
+3
+0:0:16,000 --> 0:0:23,000
+These are things that people have told us they would like for their futures and maybe some of them are true for you too.
+
+4
+0:0:24,000 --> 0:0:25,000
+I'd like to get a job.
+
+5
+0:0:25,000 --> 0:0:29,000
+I'd like to get married and have a family. I want to study computer science.
+
+6
+0:0:29,000 --> 0:0:32,000
+I want to get my house sorted out. I want to learn to drive.
+
+7
+0:0:32,000 --> 0:0:36,000
+I want to go to college. I want to save some money.
+
+8
+0:0:36,000 --> 0:0:39,000
+I'd like to get out more. I want to learn more about history.
+
+9
+0:0:38,000 --> 0:0:41,000
+I'd like to make some new friends.
+
+10
+0:0:42,000 --> 0:0:52,000
+I'd like to get a job.
+
+11
+0:0:52,000 --> 0:1:07,000
+I'd like to get married and have a family. 
+
+12
+0:1:08,000 --> 0:1:17,000
+I want to go to college.
+
+13
+0:1:17,000 --> 0:1:25,000
+I want to study.
+
+14
+0:1:25,000 --> 0:1:43,000
+I want to get my house sorted out.
+
+15
+0:1:44,000 --> 0:1:55,000
+I want to learn to drive.
+
+16
+0:1:57,000 --> 0:2:06,000
+I want to save some money.
+
+17
+0:2:08,000 --> 0:2:20,000
+I'd like to get out more.
+
+18
+0:2:22,000 --> 0:2:35,000
+I want to learn more about…
+
+19
+0:2:36,000 --> 0:2:38,000
+And the last one,
+
+20
+0:2:39,000 --> 0:2:54,000
+I'd like to make some new friends.
+
+21
+0:2:55,000 --> 0:2:56,000
+And good luck with your future!
+
+22
+0:2:57,000 --> 0:2:59,000
+Thank-you.
+

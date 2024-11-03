@@ -1,0 +1,44 @@
+1
+00:00:08,05 --> 00:00:07,21
+At the checkout
+
+2
+00:00:07,21 --> 00:00:12,09
+This is what you might hear when you are paying for something in a shop in the UK
+
+3
+00:00:13,13 --> 00:00:15,02
+Do you want a bag?
+
+4
+00:00:15,02 --> 00:00:16,28
+Cash or Card?
+
+5
+00:00:17,00 --> 00:00:18,28
+Do you want a receipt?
+
+6
+00:00:19,05 --> 00:00:20,21
+Do you have a points card?
+
+7
+00:00:21,21 --> 00:00:22,21
+Here you are
+
+8
+00:00:23,21 --> 00:00:24,12
+Do you want a bag? No, thank you
+
+9
+00:00:25,18 --> 00:00:26,15
+Do you want a receipt? No, thanks
+
+10
+00:00:26,10 --> 00:00:29,23
+Cash or Card? Cash, please
+
+11
+00:00:30,16 --> 00:00:31,00
+Do you have a loyalty card? No.
+

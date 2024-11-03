@@ -1,0 +1,52 @@
+1
+0:0:00,000 --> 0:0:07,000
+More language for time
+
+2
+0:0:08,000 --> 0:00:9,000
+Now
+
+3
+0:0:10,000 --> 0:0:11,000
+Yesterday
+
+4
+0:0:12,000 --> 0:0:13,000
+today
+
+5
+0:0:13,000 --> 0:0:14,000
+Tomorrow 
+
+6
+0:0:15,000 --> 0:0:16,000
+Morning
+
+7
+0:0:17,000 --> 0:0:18,000
+Afternoon
+
+8
+0:0:19,000 --> 0:0:20,000
+Evening
+
+9
+0:0:20,000 --> 0:0:22,000
+The day before yesterday
+
+10
+0:0:23,000 --> 0:0:25,000
+The day after tomorrow
+
+11
+0:0:27,000 --> 0:0:31,000
+Last week, this week, next week
+
+12
+0:0:31,000 --> 0:0:35,000
+Last month, this month, next month
+
+13
+0:0:36,000 --> 0:0:41,000
+Last year, this year, next year.
+

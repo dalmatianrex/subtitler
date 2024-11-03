@@ -1,0 +1,136 @@
+1
+0:0:00,000 --> 0:0:07,000
+Leaving the room
+
+2
+0:0:07,000 --> 0:0:17,000
+If you have English speaking guests or you're doing something with English-speaking people you might need to leave and come back, and this language will help you explain
+
+3
+0:0:18,000 --> 0:0:19,000
+Hey, how are you getting on?
+
+4
+0:0:19,000 --> 0:0:20,000
+Are you ready?
+
+5
+0:0:21,000 --> 0:0:22,000
+I'm just going to help my mother-in-law.
+
+6
+0:0:22,000 --> 0:0:23,000
+I'm just going to pray.
+
+7
+0:0:23,000 --> 0:0:24,000
+I won't be long.
+
+8
+0:0:24,000 --> 0:0:25,000
+I'll be back in 10 minutes.
+
+9
+0:0:26,000 --> 0:0:28,000
+Shall we practice? - Yes
+
+10
+0:0:28,000 --> 0:0:39,000
+I need to go now.
+
+11
+0:0:40,000 --> 0:0:47,000
+Are you ready?
+
+12
+0:0:48,000 --> 0:0:57,000
+I won't be long.
+
+13
+0:0:58,000 --> 0:1:13,000
+I'll be back in 10 minutes.
+
+14
+0:1:15,000 --> 0:1:17,000
+To pray.
+
+15
+0:1:17,000 --> 0:1:19,000
+Going to pray.
+
+16
+0:1:19,000 --> 0:1:22,000
+I'm just going to pray.
+
+17
+0:1:23,000 --> 0:1:36,000
+I'm just going to help my mother.
+
+18
+0:0:50,000 --> 0:0:52,000
+Are you ready?
+
+19
+0:0:52,000 --> 0:0:55,000
+I won't be long.
+
+20
+0:0:55,000 --> 0:0:57,000
+Be long
+
+21
+0:0:57,000 --> 0:0:59,000
+won't be long
+
+22
+0:0:59,000 --> 0:1:02,000
+I won't be long.
+
+23
+0:1:02,000 --> 0:1:06,000
+I'll be back in 10 minutes.
+
+24
+0:1:06,000 --> 0:1:09,000
+10 minutes
+
+25
+0:1:09,000 --> 0:1:11,000
+in 10 minutes
+
+26
+0:1:11,000 --> 0:1:17,000
+back in 10 minutes
+
+27
+0:1:17,000 --> 0:1:22,000
+I'll be back in 10 minutes.
+
+28
+0:1:22,000 --> 0:1:24,000
+to pray
+
+29
+0:1:24,000 --> 0:1:27,000
+going to pray
+
+30
+0:1:27,000 --> 0:1:35,000
+I'm just going to pray.
+
+31
+0:1:35,000 --> 0:1:38,000
+I'm just going to help my mother.
+
+32
+0:1:38,000 --> 0:1:43,000
+help my mother
+
+33
+0:1:43,000 --> 0:1:46,000
+going to help my mother
+
+34
+0:1:46,000 --> 0:1:51,000
+I'm just going to help my mother.
+
